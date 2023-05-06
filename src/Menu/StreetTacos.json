@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Tilpapia",
+        "price": "$5.00",
+        "description": "Tilapia served with lettuce, cheese, avocado on a flour tortilla"
+    },
+    {
+        "name": "Shrimp",
+        "price": "$5.00",
+        "description": "Served with lettuce, cheese, avocado on a flour tortilla"
+    },
+    {
+        "name": "Mahi Mahi",
+        "price": "$6.00",
+        "description": "Cole slaw, lettuce, cheese, avocado on a flour tortilla"
+    },
+    {
+        "name": "Carnitas Pork",
+        "price": "$4.00",
+        "description": "Cilantro, onion on a corn tortilla"
+    },
+    {
+        "name": "Barbacoa",
+        "price": "$4.00",
+        "description": "Shredded beef, cilantro, onion on a corn tortilla"
+    },
+    {
+        "name": "Carne Asada",
+        "price": "$4.00",
+        "description": "Taco, cilantro, onion on a corn tortilla"
+    },
+    {
+        "name": "Taco Al Pastor",
+        "price": "$4.00",
+        "description": "Al Pastor pork, cilantro, onion on a corn tortilla"
+    }
+]

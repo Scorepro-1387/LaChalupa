@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Pollo Vallarta",
+        "price": "$16.00",
+        "description": "Tender chicken breast, topped with shrimp, onions and melted cheese, served with Mexican rice, salad and tortillas"
+    },
+    {
+        "name": "El Tapatio",
+        "price": "$15.00",
+        "description": "A delightful serving of grilled chicken breast, with chorizo sausage then smothered with melted cheese, served with rice, salad, and warm tortillas"
+    },
+    {
+        "name": "Milanesa",
+        "price": "$15.00",
+        "description": "Breaded chicken breast or steak, deep fried, served with Mexican rice, beans and a salad"
+    },
+    {
+        "name": "Arroz Con Pollo",
+        "price": "$15.00",
+        "description": "Special homemade rice with grilled chicken topped with melted cheese dip"
+    },
+    {
+        "name": "Al Pastor",
+        "price": "$15.00",
+        "description": "Grilled chicken or pork and onions, topped with a spicy chipotle sauce, served with Mexican rice and beans"
+    }
+]

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+
+.titletext{
+    font-size: 80px;
+}
+.titletext {
+    font-size: 80px;
+}
+.introtext {
+    text-align: center;
+}
+.main-view-for-picture{
+    z-index: 1;
+    width: 100vw;
+    margin-top: -370px;
+}
+.introtext h1 {
+    user-select: none;
+    -moz-user-select: none;
+    color: #fff;
+    font-family: 'Tangerine', cursive;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    animation: SlideInFromBottom 2s ease 0s 1 normal forwards;
+}
+.links-dev{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: SlideInFromBottom 1s ease 0s 1 normal forwards;
+}
+.the-rest{
+    background-color: #fff;
+    width: 100vw;
+    z-index: 10;
+    height: 100px;
+}
+
+@keyframes SlideInFromBottom {
+    0% {
+        opacity: 0;
+        transform: translateY(250px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 368px) {
+    .links-dev{
+        display: none;
+    }
+}

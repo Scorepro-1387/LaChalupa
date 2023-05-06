@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Mojarra",
+        "price": "$15.00",
+        "description": "A whole crispy tilapia fish served with avocado, salad and rice"
+    },
+    {
+        "name": "Hot Shrimp",
+        "price": "$17.00",
+        "description": "Shrimp soaked in our home-made spicy sauce, served with Mexican rice, beans and warm tortillas"
+    },
+    {
+        "name": "Shrimp Al Mojo",
+        "price": "$15.00",
+        "description": "Shrimp fried with butter, garlic and lime, served with Mexican rice, beans and tossed salad"
+    },
+    {
+        "name": "Shrimp Quesadilla Rellena",
+        "price": "$14.00",
+        "description": "Large flour tortilla filled with shrimp, beans, onions, peppers and tomato. Served with rice and salad"
+    },
+    {
+        "name": "Fish Taco Dinner",
+        "price": "$12.50",
+        "description": "Two Pacific cod with rice, lettuce, avocado and special sauce"
+    },
+    {
+        "name": "Cocktail de Camarones",
+        "price": "$14.00",
+        "description": "Our special home made juice with shrimp, pico de gallo and avocado"
+    },
+    {
+        "name": "Grilled Tilapia",
+        "price": "$15.00",
+        "description": "Two grilled fresh tilapia, served with tortillas, rice and salad"
+    }
+]

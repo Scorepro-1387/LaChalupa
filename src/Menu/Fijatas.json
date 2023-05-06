@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Fajitas",
+        "SingelOrderPrice": "$17.00",
+        "SingleOrderDescription": "Single order (3 Tortillas)",
+        "DoubleOrderPrice": "$27.00",
+        "DoubleOrderDescription": "Double order (6 Tortillas)",
+        "description": "chicken, beef, or mixed Garnished with lettuce, guacamole, sour cream and pico de gallo, and served with Mexican rice and beans"
+    },
+    {
+        "name": "Jalisco",
+        "SingelOrderPrice": "$18.00",
+        "SingleOrderDescription": "Single order",
+        "DoubleOrderPrice": "$30.00",
+        "DoubleOrderDescription": "Double order",
+        "description": "Chicken, Beef and Shrimp"
+    }
+    ,
+    {
+        "name": "Piña Los Cabos",
+        "SingelOrderPrice": "$16.50",
+        "SingleOrderDescription": "Chicken and shrimp",
+        "DoubleOrderPrice": "$25.00",
+        "DoubleOrderDescription": "Fish and shrimp",
+        "description": "Half a pineapple hollowed out and cooked with grilled chicken and shrimp, or fish and shrimp, bell pepper, onion, and cheese, and served with rice, lettuce and sliced tomato"
+    }
+]

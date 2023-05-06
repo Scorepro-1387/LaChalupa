@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Burrito",
+        "price": "$6.00 (2) $11.00"
+    },
+    {
+        "name": "Chalupa",
+        "price": "$4.00 (2) $7.00"
+    },
+    {
+        "name": "Tostada",
+        "price": "$4.25 (2) $8.00"
+    },
+    {
+        "name": "Tostaguac",
+        "price": "$4.50 (2) $8.00"
+    },
+    {
+        "name": "Enchilada",
+        "price": "$3.50 (3) $8.00"
+    },
+    {
+        "name": "Chile Relleno",
+        "price": "$6.00 (2) $11.00"
+    },
+    {
+        "name": "Taco",
+        "price": "$3.25 (3) $8.00"
+    },
+    {
+        "name": "Tamale",
+        "price": "$4.00 (3) $11.00"
+    },
+    {
+        "name": "Quesadilla",
+        "price": "$6.00 (2) $11.00"
+    },
+    {
+        "name": "Quesadilla Fajita Grilled",
+        "price": "$8.00"
+    },
+    {
+        "name": "Add Cheese On Top",
+        "price": "$2.00"
+    },
+    {
+        "name": "Chimichanga",
+        "price": "$7.00"
+    }
+]

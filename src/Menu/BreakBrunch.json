@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Huevos Rancheros",
+        "price": "$8.00",
+        "description": "Three Eggs, topped with Mexican Sauce, served with rice, beans and a side of torillas"
+    },
+    {
+        "name": "Huevos Con Chorizo",
+        "price": "$8.50",
+        "description": "Three scrambled eggs cooked with chorizo, rice, beans and tortillas"
+    },
+    {
+        "name": "Special Lunch NO .1",
+        "price": "$8.00",
+        "description": "Chile relleno, taco, beans and our special guacamole salad"
+    },
+    {
+        "name": "Special Lunch NO .2",
+        "price": "$8.00",
+        "description": "One burrito, Mexican rice and beans"
+    },
+    {
+        "name": "Special Lunch NO .3",
+        "price": "$8.00",
+        "description": "Bean burrito, cheese enchilada and Mexican rice"
+    },
+    {
+        "name": "Special Lunch NO .4",
+        "price": "$8.00",
+        "description": "Beef burrito, one taco and Mexican rice"
+    },
+    {
+        "name": "Tostada, Rice & Beans",
+        "price": "$7.00",
+        "description": "A flat, crispy corn tortilla covered with beef, lettuce, cheese, sliced tomato and sour cream"
+    },
+    {
+        "name": "Enchilada, Rice & Beans",
+        "price": "$7.50",
+        "description": "A soft corn tortilla, stuffed with your choice of (beef, chicken, beans) plus cheese and enchilada sauce"
+    },
+    {
+        "name": "Taco, Rice & Beans",
+        "price": "$7.00",
+        "description": "A crisp corn tortilla, stuffed with your choice of (beef, chicken, beans) plus cheese and enchilada sauce"
+    },
+    {
+        "name": "Tostaguac, Rice & Beans",
+        "price": "$7.00",
+        "description": "A flat, crispy corn tortilla covered with beef, lettuce, cheese, sliced tomato and guacamole"
+    },
+    {
+        "name": "Tamale, Rice & Beans",
+        "price": "$7.50",
+        "description": "Tender beef wrapped in authentic soft corn husk shell and topped with our seasoned ground beef, beans and mild enchilada sauce"
+    },
+    {
+        "name": "Chile Relleno, Rice & Beans",
+        "price": "$9.00",
+        "description": "A tender stuffed pepper with melted cheese, topped with seasoned ground beef"
+    },
+    {
+        "name": "Speedy Gonzalez",
+        "price": "$7.00",
+        "description": "One taco, one enchilada, choice of rice or beans"
+    },
+    {
+        "name": "Fajitas (Chicken, Beef or Mixed)",
+        "price": "$11.00",
+        "description": "Garnished with lettuce, guacamole, sour cream and pico de gallo, and served with Mexican rice and beans"
+    },
+    {
+        "name": "Burrito Real (Beef or Chicken)",
+        "price": "$9.50",
+        "description": "Large tortilla wrapped around seasoned ground beef or chicken, topped with lettuce, tomatoes, sour cream and cheese, served with Mexican rice and beans"
+    },
+    {
+        "name": "Taquitos Mexicanos (Flautas)",
+        "price": "$9.50",
+        "description": "Two corn tortillas wrapped around your favorite filling that's deep fried to a golden brown and topped with lettuce, pico de gallo and sour cream, served with Mexican rice and beans"
+    },
+    {
+        "name": "Taco Salad Fijatas",
+        "price": "$11.00",
+        "description": "Crispy flour tortillas, stuffed with grilled chicken or strips of steak, sautéed onions, bell peppers and tomatoes, topped with lettuce, tomatoes, cheese and sour cream"
+    },
+    {
+        "name": "Taco Salad",
+        "price": "$9.50",
+        "description": "A tasty treat with beef or chicken"
+    },
+    {
+        "name": "Chimichanga",
+        "price": "$10.00",
+        "description": "Flour tortilla with your choice of spiced chicken or beef tips, deep fried to a golden brown, topped with cheese sauce, lettuce, pico de gallo, and sour cream, served with Mexican rice and beans"
+    }
+]

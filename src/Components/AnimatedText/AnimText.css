@@ -1,0 +1,16 @@
+.AnimText {
+    background-image: linear-gradient(to right,
+            #fe5537,
+            #fe5537 50%,
+            #fff 50%);
+    background-size: 200% 100%;
+    background-position: 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+}
+
+.AnimText:hover {
+    background-position: 0;
+    letter-spacing: 1px;
+}

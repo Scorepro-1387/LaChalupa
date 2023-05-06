@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Burrito Real",
+        "price": "$14.00",
+        "description": "Large tortilla wrapped around seasoned ground beef or chicken, topped with lettuce, tomatoes, sour cream and cheese, served with Mexican rice and beans"
+    },
+    {
+        "name": "Deluxe",
+        "price": "$14.50",
+        "description": "Two tortillas stuffed with beans and shredded chicken, topped with cheese, lettuce, tomato, our special sauce, and sour cream"
+    },
+    {
+        "name": "Fajita Burrito",
+        "price": "$13.50",
+        "description": "A flour burrito stuffed with strips of steak or marinated chicken, then covered with melted cheese, served with rice or beans, vegetables and guacamole"
+    },
+    {
+        "name": "Mexicano Burrito",
+        "price": "$14.00",
+        "description": "A tortilla filled with pork, tomato, onion and bell peppers, topped with our cheese sauce, lettuce, tomato and guacamole"
+    },
+    {
+        "name": "Guadalajara",
+        "price": "$13.00",
+        "description": "One burrito and enchilada, topped with lettuce, sour cream, and pico de gallo"
+    },
+    {
+        "name": "Cancun",
+        "price": "$16.50",
+        "description": "Grilled specially seasoned chicken, roasted peppers and onions, topped with our cheese sauce and crushed pineapple, served with guacamole salad and Mexican rice"
+    },
+    {
+        "name": "California",
+        "price": "$14.50",
+        "description": "Stuffed with grilled chicken or beef, rice, beans, lettuce, sour cream and pico de gallo, topped with green salsa, melted cheese and quacamole"
+    }
+]

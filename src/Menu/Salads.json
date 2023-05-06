@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Taco Salad",
+        "price": "$10.00",
+        "description": "A crispy flour tortilla filled with chicken or beef, lettuce, tomatoes, cheese, and sour cream"
+    },
+    {
+        "name": "Fijata Style Chicken Or Beef Salad",
+        "price": "$13.00",
+        "description": ""
+    },
+    {
+        "name": "Guacamole Salad",
+        "price": "$7.00",
+        "description": "Fresh guacamole, served with crisp lettuce, tomatoes and cheese"
+    },
+    {
+        "name": "Grilled Chicken Salad",
+        "price": "$12.00",
+        "description": "Juicy marinated chicken, served atop crisp lettuce with tomatoes, cucumbers, croutons, cheese and a dressing of your choice"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fried Ice Cream",
+        "price": "$5.00",
+        "description": "Special, fried vanilla ice cream, covered with raisins, coconut and corn flakes, topped with strawberry pure, whipped cream, chocolate syrup and a cherry on top"
+    },
+    {
+        "name": "Hot Twised Churro Ice Cream",
+        "price": "$6.00",
+        "description": ""
+    },
+    {
+        "name": "Flan",
+        "price": "$3.00",
+        "description": "Traditional Mexico City style cream caramel"
+    },
+    {
+        "name": "Tres Leches Cake",
+        "price": "$6.00",
+        "description": ""
+    }
+]

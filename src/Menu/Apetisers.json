@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Nachos Reales",
+        "price": "$15.00",
+        "description": "Nachos topped with steak or chicken strips, refried beans and cheese, served with lettuce, pico de gallo and sour cream"
+    },
+    {
+        "name": "Nachos Mexicanos",
+        "price": "$16.00",
+        "description": "Topped with shrimp, chicken stirps, refried beans and cheese, served with lettuce, sour cream and tomatos"
+    },
+    {
+        "name": "Bean Dip",
+        "price": "$7.00",
+        "description": ""
+    },
+    {
+        "name": "Chorizo Con Queso",
+        "price": "$8.50",
+        "description": ""
+    },
+    {
+        "name": "Guacamole Dip",
+        "price": "$4.50",
+        "description": ""
+    },
+    {
+        "name": "Cheese Dip",
+        "price": "$4.50",
+        "description": ""
+    },
+    {
+        "name": "Cheese Quesadilla",
+        "price": "$4.50",
+        "description": ""
+    },
+    {
+        "name": "Chicken Dip",
+        "price": "$7.50",
+        "description": ""
+    },
+    {
+        "name": "Chicken Rice & Cheese Dip",
+        "price": "$10.00",
+        "description": ""
+    },
+    {
+        "name": "Homemade Guacamole",
+        "price": "$7.75",
+        "description": ""
+    },
+    {
+        "name": "Chicken Tortilla Soup",
+        "price": "$6.00",
+        "description": ""
+    },
+    {
+        "name": "Chicken Wings",
+        "price": "$12.00",
+        "description": ""
+    },
+    {
+        "name": "Nachos Supremos",
+        "price": "$13.00",
+        "description": "Cheese nachos topped with Beef, chicken and beans then covered with lettuce, tomato and sour cream"
+    },
+    {
+        "name": "Nachos Fijata",
+        "price": "$15.00",
+        "description": "Grilled Chicken or steak, served with onions, peppers and tomatoes"
+    },
+    {
+        "name": "Nachos With Grilled Chicken Or Steak",
+        "price": "$12.00",
+        "description": ""
+    },
+    {
+        "name": "Nachos With Beef Or Bean",
+        "price": "$8.25",
+        "description": ""
+    },
+    {
+        "name": "Nachos With Beef or Chicken",
+        "price": "$11.00",
+        "description": ""
+    },
+    {
+        "name": "Armando's Brothers Pizza",
+        "price": "$16.00",
+        "description": ""
+    },
+    {
+        "name": "Add Cheese on top",
+        "price": "$1.50",
+        "description": ""
+    }
+]

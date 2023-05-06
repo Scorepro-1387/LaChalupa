@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Chile Colorado",
+        "price": "$15.00",
+        "description": ""
+    },
+    {
+        "name": "Taquitos Mexicanos",
+        "price": "$13.00",
+        "description": "Four corn tortillas, stuffed with chicken or beef fillings, topped with lettuce, , sour cream and pico de gallo, served with Mexican rice and beans"
+    },
+    {
+        "name": "Carnitas",
+        "price": "$15.00",
+        "description": "Fried pork served with Mexican rice and beans, and salad"
+    },
+    {
+        "name": "Special Dinner",
+        "price": "$17.00",
+        "description": "One tamale, enchilada, chile relleno, taco and chalupa, served with Mexican rice, and beans"
+    },
+    {
+        "name": "Chimichanga",
+        "price": "$14.00",
+        "description": "Stuffed flour tortilla with a choice of beef chunks or spiced chicken deep fried to a golden brown, topped with cheese sauce, lettuce, sour cream, and pico de gallo, served with Mexican rice and beans"
+    },
+    {
+        "name": "Chimichanga Pancho",
+        "price": "$18.00",
+        "description": "Stuffed flour tortilla with cooked shrimp, sautéed onions, tomatoes and green peppers, deep fried to golden brown, topped with cheese sauce, lettuce, sour cream, and pico de gallo, served with rice and beans"
+    },
+    {
+        "name": "Quesadilla Rellena",
+        "price": "$12.00",
+        "description": "Large flour tortilla filled with beans and beef or chicken. server with Mexican rice and salad"
+    },
+    {
+        "name": "Burger Real",
+        "price": "$9.50",
+        "description": "A freshly made juicy burger, grilled and served on a bun, with lettuce onion and tomato, pickles, mayonnaise, and mustard, served with french fries"
+    },
+    {
+        "name": "Enchilada Supremas",
+        "price": "$12.00",
+        "description": "Four rolled corn tortillas, one of each, beef, bean, chicken, cheese, topped with enchilada sauce, lettuce, tomatoes sour cream"
+    },
+    {
+        "name": "Enchilada Rancheras",
+        "price": "$12.50",
+        "description": "Three cheese enchiladas, topped with cooked shredded pork, tomatoes, onions, bell peppers, lettuce and sour cream"
+    },
+    {
+        "name": "Enchilada Verdes",
+        "price": "$13.50",
+        "description": "Three cheese enchiladas, topped with shredded beef and green tomatilln sauce served with rino and beans"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Carne Asada",
+        "price": "$15.00",
+        "description": "Thin grilled seasoned steak with Mexican rice, refried beans, and salad"
+    },
+    {
+        "name": "Tacos De Carne Asada",
+        "price": "$15.00",
+        "description": "Our delicious seasoned grilled thin cut steak, served with Mexican rice and beans, pico de gallo and tortillas"
+    },
+    {
+        "name": "Molcajete",
+        "price": "$20.00",
+        "description": "A traditional hot stone (molcajete) steak, chicken strips, shrimp, onions, bell peppers, chorizo, nopales, rice and beans, cheese"
+    }
+]
